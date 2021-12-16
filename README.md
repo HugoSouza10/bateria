@@ -29,7 +29,7 @@ O projeto bateria é uma bateria criado com java script puro. Este projeto foi c
  
 
 **Link do projeto:**
-https://hugosouza10.github.io/Projeto-Starbucks.io/
+https://hugosouza10.github.io/bateria/
 
 
 
